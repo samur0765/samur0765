@@ -1,4 +1,4 @@
-## Hi there 👋 Merhaba! Ben [Figen Samur], bir Frontend geliştiricisiyim. Web geliştirme alanında HTML, CSS ve JavaScript üzerinde yoğunlaşarak kullanıcı dostu ve etkileyici web sayfaları tasarlamayı seviyorum
+ 👋 Merhaba! Ben [Figen Samur], bir Frontend geliştiricisiyim. Web geliştirme alanında HTML, CSS ve JavaScript üzerinde yoğunlaşarak kullanıcı dostu ve etkileyici web sayfaları tasarlamayı seviyorum
 
 - 🔭 Şu anda Frontend üzerinde çalışıyorum
 - 🌱 Şu anda HTML, CSS ve JS öğreniyorum
