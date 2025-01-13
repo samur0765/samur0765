@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Merhaba! Ben [Figen Samur], bir Frontend geliştiricisiyim. Web geliştirme alanında HTML, CSS ve JavaScript üzerinde yoğunlaşarak kullanıcı dostu ve etkileyici web sayfaları tasarlamayı seviyorum
 
 
 **samur0765/samur0765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
