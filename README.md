@@ -1,9 +1,5 @@
- 👋 Merhaba! Ben samur0765 [Figen Samur], bir Frontend geliştiricisiyim. Web geliştirme alanında HTML, CSS ve JavaScript üzerinde yoğunlaşarak kullanıcı dostu ve etkileyici web sayfaları tasarlamayı seviyorum
 
- 🔭 Şu anda Frontend üzerinde eğitim görüyorum
- 
-🌱 Şu anda HTML, CSS ve JS öğreniyorum
-# 💫 About Me:
+💫 About Me:
 👋Merhaba! Ben samur0765 [Figen Samur], bir Frontend geliştiricisiyim. Web geliştirme alanında HTML, CSS ve JavaScript üzerinde yoğunlaşarak kullanıcı dostu ve etkileyici web sayfaları tasarlamayı seviyorum<br><br>🔭 Şu anda Frontend üzerinde eğitim teknolojisi<br><br>🌱 Şu anda HTML, CSS ve JS öğreniyorum<br><br>Proje yapımı çok sevgili<br><br>Yeni şeyler öğrenmeyi çok seviyorum
 
 
@@ -18,6 +14,3 @@
 [![](https://visitcount.itsvg.in/api?id=samur0765&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- Proje yapmayı çok seviyorum
-  
-- Yeni şeyler öğrenmeyi çok seviyorum
