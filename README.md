@@ -1,6 +1,6 @@
 
 💫 About Me:
-👋Merhaba! Ben samur0765 [Figen Samur], bir Frontend geliştiricisiyim. Web geliştirme alanında HTML, CSS ve JavaScript üzerinde yoğunlaşarak kullanıcı dostu ve etkileyici web sayfaları tasarlamayı seviyorum<br><br>🔭 Şu anda Frontend üzerinde eğitim teknolojisi<br><br>🌱 Şu anda HTML, CSS ve JS öğreniyorum<br><br><br><br>Yeni şeyler öğrenmeyi çok seviyorum
+👋Merhaba! Ben samur0765 [Figen Samur], bir Frontend geliştiricisiyim. Web geliştirme alanında HTML, CSS ve JavaScript üzerinde yoğunlaşarak kullanıcı dostu ve etkileyici web sayfaları tasarlamayı seviyorum<br><br>🔭 Şu anda Frontend üzerinde eğitim teknolojisi<br><br>🌱 Şu anda HTML, CSS ve JS öğreniyorum<br>Yeni şeyler öğrenmeyi çok seviyorum
 
 
 # 💻 Tech Stack:
