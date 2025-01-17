@@ -3,4 +3,4 @@
 - 🔭 Şu anda Frontend üzerinde eğitim görüyorum
 - 🌱 Şu anda HTML, CSS ve JS öğreniyorum
 - Proje yapmayı çok seviyorum
-- Yeni şeyler Öğrenmeyi çok seviyorum
+- Yeni şeyler öğrenmeyi çok seviyorum
